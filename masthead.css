@@ -1,0 +1,22 @@
+table{
+	width: 100%;
+color: white;
+font-family: Arial;
+border-collapse: collapse;
+}
+
+tr {background-color: black;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	display: inline;
+	padding: 10px;
+}
+
+#logo {
+	background-color: red;
+}

@@ -1,0 +1,23 @@
+h1 {
+      background-color: black;
+      color: white;
+    }
+
+    p {font-family: sans-serif;
+    	border-style: ridge;
+    	border-width: thick;}
+
+    	
+
+    	a:hover {font-family: cursive;}
+
+    	a:visited {color: red;}
+
+
+    	#myElement {color: gold;}
+
+    	.glow {text-shadow: 5px 12px 5px chartreuse;}
+
+    	* {margin: auto;}
+
+    	[for] {margin: 5px;}
